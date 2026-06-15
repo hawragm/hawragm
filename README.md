@@ -1,4 +1,7 @@
 ## Hi there 👋
+HAWRA is here:
+- 🎨 I’m currently working on my paintings.
+- 🌱 I’m currently learning c.
 
 <!--
 **hawragm/hawragm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
